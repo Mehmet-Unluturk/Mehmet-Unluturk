@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehmetnltrkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmetnltrkk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmet-ünlütürk-35a1ab220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-ünlütürk-35a1ab220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmet-ünlütürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-ünlütürk-35a1ab220" height="30" width="40" /></a>
 <a href="https://kaggle.com/mehmetnltrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehmetnltrk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/unluturkmehmet0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="unluturkmehmet0" height="30" width="40" /></a>
 </p>
