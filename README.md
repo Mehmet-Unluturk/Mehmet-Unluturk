@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">I am a Statistics student with strong learning skills, passionate about Data Science and Machine Learning at Hacettepe University in Turkey.</h3>
+<h3 align="center">I am a Statistics student with strong learning skills, passionate about Data Science, Data Engineering and Machine Learning at Hacettepe University in Turkey.</h3>
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
 
 
 
-- 🌱 I’m currently learning **Deep Learning with Pytorch**
-- 🤝 I’m looking for help with **Pytorch**
+- 🌱 I’m currently learning **Docker and GCP**
+- 🤝 I’m looking for help with **Cloud**
 - 💬 Ask me about **Statistical Data Analysis, Python and Machine Learning**
 - 📫 How to reach me **unluturkmehmet0@gmail.com**
 
