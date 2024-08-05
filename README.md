@@ -4,8 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Docker and GCP**
-- 🤝 I’m looking for help with **Cloud**
+- 🌱 I’m currently learning **NLP and Looker Studio**
 - 💬 Ask me about **Statistical Data Analysis, Python and Machine Learning**
 - 📫 How to reach me **unluturkmehmet0@gmail.com**
 
